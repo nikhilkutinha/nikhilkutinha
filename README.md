@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m proficient with Python, JavaScript, HTML, and CSS; Django, Vue, and Tailwind.
+- 🔭 I’m proficient with Python, JavaScript, HTML, and CSS; Django, Vue, Bluma and Tailwind.
 - 🌱 I’m currently learning Laravel and React.
 - ⚡ Fun fact: We are all stardust.
-- 😄 Pronouns: seriously?
+- 😄 Pronouns: for real?
 
 <!--
 - 👯 I’m looking to collaborate on ...
