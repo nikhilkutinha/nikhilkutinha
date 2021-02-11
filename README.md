@@ -4,11 +4,12 @@
 **nikhilkutinha/nikhilkutinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently proficient with Django and Vue.
-- 🌱 I’m currently learning Laravel.
+- 🔭 I’m proficient with Python, JavaScript, HTML, and CSS; Django, Vue, and Tailwind.
+- 🌱 I’m currently learning Laravel and React.
 - ⚡ Fun fact: We are all stardust.
-- 😄 Pronouns: he/him.
+- 😄 Pronouns: seriously?
 
 <!--
 - 👯 I’m looking to collaborate on ...
