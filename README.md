@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Laravel and React.
 - ⚡ Fun fact: We are all stardust.
 - 😄 Pronouns: for real?
+- 💎 Diamond hands 🙌
 
 <!--
 - 👯 I’m looking to collaborate on ...
