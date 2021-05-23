@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m proficient with Python, JavaScript, HTML, and CSS; Django, Vue, Bluma and Tailwind.
-- 🌱 I’m currently learning Laravel and React.
+- 🌱 I’m currently learning PHP, Laravel and React.
 - ⚡ Fun fact: We are all stardust.
 - 😄 Pronouns: for real?
-- 💎 Diamond hands 🙌
+- 💎 Diamond paws 🐾
 
 <!--
 - 👯 I’m looking to collaborate on ...
