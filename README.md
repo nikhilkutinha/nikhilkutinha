@@ -70,6 +70,15 @@
         height="40"
     />
 </a>
+    
+<a href="https://inertiajs.com/" target="_blank">
+    <img
+        src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4"
+        alt="inertiajs"
+        width="40"
+        height="40"
+    />
+</a>    
 
 <a href="https://vuejs.org/" target="_blank">
     <img
