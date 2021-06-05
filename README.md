@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- ⚡ Fun fact: We are all stardust.
+- ⚡ Fun fact: Even yer mum can code.
 - 😄 Pronouns: for real?
 - 💎 Diamond paws 🐾
 - 📫 How to reach me: github@illuminate.anonaddy.com
