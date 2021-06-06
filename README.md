@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- ⚡ Fun fact: Even yer mum can code.
+- ⚡ Fun fact: even yer mum can code.
 - 😄 Pronouns: for real?
 - 💎 Diamond paws 🐾
 - 📫 How to reach me: github@illuminate.anonaddy.com
